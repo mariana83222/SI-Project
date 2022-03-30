@@ -22,6 +22,6 @@ Using the Visual Paradigm API, two diagrams were constructed: Sequence Diagram a
 
 ## Phase 2 - Implementation of the Multi-Agent System (MAS)
 
-The directory final-project contains the implementation of the system developed. 
+This directory contains the code for the implementation of the system developed. 
 
 
