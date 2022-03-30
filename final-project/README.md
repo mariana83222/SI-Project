@@ -7,7 +7,12 @@ Agent Utilizador(AU) and Agent Interface.
 
 Using the Visual Paradigm API, two diagrams were constructed: Sequence Diagram and Class Diagram.
 
+#### Class diagram
+
+<img src="https://https://github.com/mariana83222/SI-Project/blob/main/final-project/Figures/class_diagram.jpg" width="500">
+
 #### Sequence diagram
 
+<img src="https://https://github.com/mariana83222/SI-Project/blob/main/final-project/Figures/Sequence_diagram.jpg" width="500">
 
-#### Class diagram
+
