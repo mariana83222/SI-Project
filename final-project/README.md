@@ -9,7 +9,7 @@ Using the Visual Paradigm API, two diagrams were constructed: Sequence Diagram a
 
 #### Class diagram
 
-<img src="https://github.com/mariana83222/SI-Project/blob/main/final-project/Figures/class_diagram.jpg" width="500">
+<img src="https://github.com/mariana83222/SI-Project/blob/main/final-project/Figures/class_diagram.JPG" width="500">
 
 #### Sequence diagram
 
